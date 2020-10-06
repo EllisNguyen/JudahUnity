@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8909240558487281019}
   - component: {fileID: 1127184856160697688}
+  - component: {fileID: -8050699186378484476}
   m_Layer: 0
   m_Name: Simple Piece Green
   m_TagString: Untagged
@@ -80,3 +81,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-8050699186378484476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7438644865773323383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c4549cded621b458bda59a3b2aa50b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xIndex: 0
+  yIndex: 0
